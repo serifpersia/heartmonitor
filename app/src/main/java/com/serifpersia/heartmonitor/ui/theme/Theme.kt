@@ -1,6 +1,5 @@
-package com.example.heartmonitor.ui.theme
+package com.serifpersia.heartmonitor.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

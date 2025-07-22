@@ -1,4 +1,4 @@
-package com.example.heartmonitor
+package com.serifpersia.heartmonitor
 
 import org.junit.Test
 

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.heartmonitor'
+    namespace 'com.serifpersia.heartmonitor'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.example.heartmonitor"
+        applicationId 'com.serifpersia.heartmonitor'
         minSdk 23
         targetSdk 36
         versionCode 1

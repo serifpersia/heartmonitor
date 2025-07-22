@@ -1,4 +1,4 @@
-package com.example.heartmonitor.ui.theme
+package com.serifpersia.heartmonitor.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

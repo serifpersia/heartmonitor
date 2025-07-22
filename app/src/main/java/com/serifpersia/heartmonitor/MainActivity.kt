@@ -1,4 +1,4 @@
-package com.example.heartmonitor
+package com.serifpersia.heartmonitor
 
 import android.Manifest
 import android.content.Context
@@ -43,7 +43,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
-import com.example.heartmonitor.ui.theme.HeartMonitorTheme
+import com.serifpersia.heartmonitor.ui.theme.HeartMonitorTheme
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlin.math.roundToInt
