@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img width="624" height="1168" alt="image" src="https://github.com/user-attachments/assets/23fb3be5-c76b-455d-ad8d-299d4af72e0f" />
+<img width="600" height="1008" alt="image" src="https://github.com/user-attachments/assets/60114974-64bd-45cc-a3f1-10b94e732f0f" />
 
 </div>
 A simple Android application to monitor your heart rate using your device's body sensors.
